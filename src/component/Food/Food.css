@@ -1,0 +1,31 @@
+.product-img{
+    
+    margin-right: 15px;
+
+}
+
+.img-cart{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    padding: 10px 10px;
+}
+
+.btn-cart{
+
+    background-color: crimson;
+    color:white;
+    border: 0;
+    padding: 10px 25px;
+    border-radius: 10px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.btn-details{
+    background-color: rgb(4, 156, 85);
+    color:white;
+    border: 0;
+    padding: 10px 25px;
+    border-radius: 10px;
+    cursor: pointer;
+}
